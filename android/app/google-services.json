@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605352194059",
+    "firebase_url": "https://petbook-c9639.firebaseio.com",
+    "project_id": "petbook-c9639",
+    "storage_bucket": "petbook-c9639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605352194059:android:35bae5b4779bcf1ad9570e",
+        "android_client_info": {
+          "package_name": "com.styleboxmedia.petbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605352194059-2sdob4tk96ei0n6e7m4auh2dv78mvakj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk-5VCFv6_9bNHt-LJKjyIxu4ZTkUqO_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605352194059-2sdob4tk96ei0n6e7m4auh2dv78mvakj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605352194059-ddrjdfv8ch2v7c1ptgler57nherheanv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.styleboxmedia.petbook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
